@@ -31,7 +31,7 @@ class DrFile
     /**
      * 尾缀修正
      * @param $path 路径名称
-     * @param bool $hasSlash 是否带前缀斜杠,默认否
+     * @param bool $hasSlash 是否带前缀斜杠,默认是
      * @return false|string
      * hotarunohikari
      */
